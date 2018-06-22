@@ -2,9 +2,9 @@
     "bot": {
         "token": "",
         "owner": [""],
-        "name": "Sohbet ve Oyun",
+        "name": "Fiber",
         "year": "2018",
-        "prefix": "svo!",
+        "prefix": "f!",
         "version": "v1.0.1"
     },
     "customEmojis": {
